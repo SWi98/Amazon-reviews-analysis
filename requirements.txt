@@ -1,0 +1,9 @@
+tqdm==4.50.2
+seaborn==0.11.1
+scikit-learn==0.23.2
+pandas==1.2.4
+numpy==1.19.5
+nltk==3.6.2
+matplotlib==3.4.2
+flair==0.8.0.post1
+ipython==7.18.1
